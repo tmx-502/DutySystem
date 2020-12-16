@@ -1,0 +1,8 @@
+J:\HYDutySystem\DSUtil\bin\Debug\DSUtil.dll
+J:\HYDutySystem\DSUtil\bin\Debug\DSUtil.pdb
+J:\HYDutySystem\DSUtil\obj\Debug\DSUtil.csproj.CoreCompileInputs.cache
+J:\HYDutySystem\DSUtil\obj\Debug\DSUtil.dll
+J:\HYDutySystem\DSUtil\obj\Debug\DSUtil.pdb
+J:\HYDutySystem\DSUtil\bin\Debug\AjaxControlToolkit.dll
+J:\HYDutySystem\DSUtil\obj\Debug\DSUtil.csproj.CopyComplete
+J:\HYDutySystem\DSUtil\obj\Debug\DSUtil.csprojAssemblyReference.cache

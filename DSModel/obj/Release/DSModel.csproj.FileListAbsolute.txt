@@ -1,0 +1,8 @@
+J:\HYDutySystem\DSModel\bin\Release\DSModel.dll
+J:\HYDutySystem\DSModel\bin\Release\DSModel.pdb
+J:\HYDutySystem\DSModel\bin\Release\AjaxControlToolkit.dll
+J:\HYDutySystem\DSModel\obj\Release\DSModel.csprojAssemblyReference.cache
+J:\HYDutySystem\DSModel\obj\Release\DSModel.csproj.CoreCompileInputs.cache
+J:\HYDutySystem\DSModel\obj\Release\DSModel.csproj.CopyComplete
+J:\HYDutySystem\DSModel\obj\Release\DSModel.dll
+J:\HYDutySystem\DSModel\obj\Release\DSModel.pdb

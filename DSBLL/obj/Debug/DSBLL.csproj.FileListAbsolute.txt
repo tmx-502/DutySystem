@@ -1,0 +1,14 @@
+J:\HYDutySystem\DSBLL\obj\Debug\DSBLL.csprojAssemblyReference.cache
+J:\HYDutySystem\DSBLL\obj\Debug\DSBLL.csproj.CoreCompileInputs.cache
+J:\HYDutySystem\DSBLL\bin\Debug\DSBLL.dll
+J:\HYDutySystem\DSBLL\bin\Debug\DSBLL.pdb
+J:\HYDutySystem\DSBLL\bin\Debug\DSDAL.dll
+J:\HYDutySystem\DSBLL\bin\Debug\DSModel.dll
+J:\HYDutySystem\DSBLL\bin\Debug\DSUtil.dll
+J:\HYDutySystem\DSBLL\bin\Debug\DSDAL.pdb
+J:\HYDutySystem\DSBLL\bin\Debug\DSModel.pdb
+J:\HYDutySystem\DSBLL\bin\Debug\DSUtil.pdb
+J:\HYDutySystem\DSBLL\obj\Debug\DSBLL.csproj.CopyComplete
+J:\HYDutySystem\DSBLL\obj\Debug\DSBLL.dll
+J:\HYDutySystem\DSBLL\obj\Debug\DSBLL.pdb
+J:\HYDutySystem\DSBLL\bin\Debug\AjaxControlToolkit.dll

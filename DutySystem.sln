@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DutySystem", "myweb\DutySystem\DutySystem\", "{CD85D976-A72D-402C-8324-68618E04FE27}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{09e157e7-f6f7-43fc-847a-586a1df1a1fb}|DSModel.dll;{7ff01c11-9fee-4d3d-9322-1e9f5ad9f00f}|DSBLL.dll;{4ce8bf1f-9b85-4f00-b56f-cd1cb3723a8f}|DSDAL.dll;{b1c3155e-4a0d-4cb9-b4a7-6b5426a3f291}|DSUtil.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_24612"
+		Debug.AspNetCompiler.PhysicalPath = "myweb\DutySystem\DutySystem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_24612\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_24612"
+		Release.AspNetCompiler.PhysicalPath = "myweb\DutySystem\DutySystem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_24612\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "24612"
+		SlnRelativePath = "myweb\DutySystem\DutySystem\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSModel", "DSModel\DSModel.csproj", "{09E157E7-F6F7-43FC-847A-586A1DF1A1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSDAL", "DSDAL\DSDAL.csproj", "{4CE8BF1F-9B85-4F00-B56F-CD1CB3723A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSUtil", "DSUtil\DSUtil.csproj", "{B1C3155E-4A0D-4CB9-B4A7-6B5426A3F291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSBLL", "DSBLL\DSBLL.csproj", "{7FF01C11-9FEE-4D3D-9322-1E9F5AD9F00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD85D976-A72D-402C-8324-68618E04FE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD85D976-A72D-402C-8324-68618E04FE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD85D976-A72D-402C-8324-68618E04FE27}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD85D976-A72D-402C-8324-68618E04FE27}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{09E157E7-F6F7-43FC-847A-586A1DF1A1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E157E7-F6F7-43FC-847A-586A1DF1A1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E157E7-F6F7-43FC-847A-586A1DF1A1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E157E7-F6F7-43FC-847A-586A1DF1A1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE8BF1F-9B85-4F00-B56F-CD1CB3723A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE8BF1F-9B85-4F00-B56F-CD1CB3723A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE8BF1F-9B85-4F00-B56F-CD1CB3723A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE8BF1F-9B85-4F00-B56F-CD1CB3723A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C3155E-4A0D-4CB9-B4A7-6B5426A3F291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C3155E-4A0D-4CB9-B4A7-6B5426A3F291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C3155E-4A0D-4CB9-B4A7-6B5426A3F291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C3155E-4A0D-4CB9-B4A7-6B5426A3F291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF01C11-9FEE-4D3D-9322-1E9F5AD9F00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF01C11-9FEE-4D3D-9322-1E9F5AD9F00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF01C11-9FEE-4D3D-9322-1E9F5AD9F00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF01C11-9FEE-4D3D-9322-1E9F5AD9F00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2C1BB3-0EC4-48C8-A85B-B7AE94D27F2D}
+	EndGlobalSection
+EndGlobal

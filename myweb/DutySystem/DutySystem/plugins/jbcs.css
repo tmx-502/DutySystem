@@ -1,0 +1,204 @@
+﻿/*
+    lianhailong 处理参数样式
+*/
+.hy-edit-data {
+    width: auto;
+    padding-left: 0px;
+    min-width: 730px;
+}
+    /**重写内容父容器和table*/
+    .hy-edit-data > table {
+        width: 95%;
+        min-width: 750px;
+        max-width: 1300px;
+    }
+
+        .hy-edit-data > table > td {
+            border-style: solid;
+        }
+/**基本参数里的控件*/
+
+.edit-data-control {
+    max-width: inherit !important;
+    width: 200px !important;
+}
+
+.no_Style tr, .no_Style td {
+    width: initial;
+    height: inherit;
+    border-width: 0px;
+    max-width: initial;
+    min-width: initial;
+    padding-left: 10px;
+}
+
+#tab_content1 a {
+    cursor: pointer;
+}
+
+.edit_main_td_title {
+    min-width: 200px !important;
+    font-size: 16px;
+}
+/*复选框*/
+.chb_style input {
+    margin-left: 10px;
+}
+
+.chb_style label {
+    margin-left: 5px;
+}
+/**检测项目*/
+.items_title input {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.hy-search {
+    margin-left: 0px !important;
+}
+
+.items_content {
+    height: 400px;
+}
+
+.hy-search {
+    height: 33px;
+    min-width: 210px;
+}
+
+.itemsGroup {
+    float: left;
+    margin-left: 30px;
+    border: 1px solid #dddddd;
+    margin-top: 8px;
+    max-height: 400px;
+}
+
+.items_title {
+    display: block;
+    padding-left: 15px;
+    margin-top: 10px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-bottom: 1px solid #dddddd;
+    font-size: 16px;
+}
+
+.itemsGroup, .items_content {
+    min-width: 250px;
+}
+
+.items_content {
+    max-height: 360px;
+    overflow: auto;
+    border-top-width: 0px;
+    padding-left: 10px;
+    width: 200px;
+}
+
+.networktyperemark {
+    height: auto !important;
+    text-align: center;
+    background-color: #e5e5e5
+}
+
+.networkparalist {
+    height: auto !important
+}
+
+.hy-para-loading {
+    text-align: center
+}
+
+.hynet-click-ico {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    cursor: pointer;
+}
+
+input:disabled {
+    background-color: #dddddd
+}
+
+.hy-elem-quote {
+    font-size:14px;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+    /*background-color: #f2f2f2;*/
+    clear: both;
+    margin: 0px !important;
+}
+/*网参数组*/
+.hynet-group {
+    height: auto !important
+}
+
+
+.hy-para-group {
+    position: relative;
+    height: auto !important
+}
+
+.hy-para-delete {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    display: block;
+    cursor: pointer
+}
+
+    .hy-para-delete img {
+        width: 20px;
+        height: 20px;
+    }
+    /*20181123 连海龙重写easyui*/
+.textbox {
+    border-radius: 0px !important;
+    border-width: 0px !important;
+    position: absolute !important;
+    width: 100% !important
+}
+
+.textbox-text {
+    height: 36px !important;
+    line-height: 36px !important;
+    width: 100% !important
+}
+
+.Tables {
+    padding: 0px !important;
+    margin: 0px;
+}
+.td_bg2{background-color:#ebebeb!important}
+.hy-easyui-control{display:none}
+.Tables .col-sm-6, .col-sm-4, .col-sm-3, .col-sm-2, .col-sm-12 {
+    padding: 0px;
+}
+/*
+    lianhailong 2090324
+    参数集合样式定义,hy-para-groups位集合父元素
+
+*/
+.hy-para-groups .hy-groups-add{cursor: pointer}
+.hy-para-delete {
+    background: url(../../../../images/contents/delete4.png) no-repeat;
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+    margin: 8px;
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    display: block;
+    cursor: pointer
+}
+ .hy-para-group {
+            position: relative;
+            clear:both;
+        }

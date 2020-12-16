@@ -1,0 +1,117 @@
+﻿/**用table布局，使添加页面更加灵活***/
+.hy-edit-bave table {
+    border:hidden;
+    width: 98%;
+    margin: 10px 1%;
+    font-size: 12px;
+    position:absolute;
+    bottom:50px;
+}
+
+    .hy-edit-bave table a {
+        cursor: pointer;
+    }
+
+    .hy-edit-bave table td {
+        height: 40px;
+        line-height: 40px;
+        border: 1px solid #e8e8e8;
+    }
+
+        .hy-edit-bave table td > table {
+            width: initial;
+            height: initial;
+            min-width: initial;
+            max-height: initial;
+            border-width: 0;
+        }
+
+            .hy-edit-bave table td > table td {
+                border-width: 0;
+                padding-left: 15px;
+            }
+
+.edit-bave-must {
+    height: 20px !important;
+}
+
+    .edit-bave-must i {
+        color: red;
+        font-size: 14px;
+    }
+
+.edit_main_td_title {
+    text-align: right;
+    padding-right: 15px;
+    font-size: 14px;
+    background-color: #f6f6f6 !important;
+    color: #000;
+}
+
+.edit_main_td_title_mi {
+    text-align: center;
+    padding-right: 15px;
+}
+
+.edit_main_td_title i {
+    color: red;
+    margin-right: 5px;
+}
+
+.edit_main_td_width {
+    min-width: 200px;
+}
+
+    .edit_main_td_width span {
+        float: left;
+        margin-left: 5px;
+    }
+
+.edit-bave-control {
+    max-width: 160px !important;
+    margin: 10px 0 0 10px;
+    float: left;
+}
+
+.edit-bave-button {
+    text-align: center;
+}
+
+    .edit-bave-button a {
+        width: 100px;
+        height: 40px;
+        margin: 10px;
+    }
+/*************************上传图片框**************************88*/
+#imgPreview {
+    width: 16%;
+    height: 120px;
+    margin: 10px auto 10px 20px;
+    border: 1px solid #b1b0b0;
+    text-align: center;
+}
+
+#prompt3 {
+    width: 100%;
+    height: 180px;
+    text-align: center;
+    position: relative;
+}
+
+#imgSpan {
+    position: absolute;
+    top: 60px;
+    left: 40px;
+}
+
+.filepath {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+#img3 {
+    height: 100%;
+    width: 100%;
+    display: none;
+}

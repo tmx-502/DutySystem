@@ -1,0 +1,27 @@
+﻿*{
+    
+    margin: 0px;
+    padding: 0px;
+}
+.b-top {
+    background-color: #f4fcff;
+    height: 100px;
+    width: 100%;
+}
+.b-body {
+    background-color: #f4fcff!important;
+    width: 80%;
+    margin: 20px 0 0 10%;
+    height: 500px;
+}
+.form-group {
+    background-color: #f4fcff!important;
+}
+.b-banner {
+    height: 30px;
+    width: 96%;
+    background-color: #ebf3f6;
+    border-radius:4px;
+    margin:0 2%;
+    padding-top:20px!important;
+}
